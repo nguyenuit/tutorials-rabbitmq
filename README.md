@@ -1,1 +1,1 @@
-# tutorials-rabbitmq
+A demo about message queue for training new members.
